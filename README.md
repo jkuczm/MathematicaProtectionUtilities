@@ -1,4 +1,6 @@
 # Protection Utilities
+
+[![release](http://img.shields.io/github/release/jkuczm/MathematicaProtectionUtilities.svg)](https://github.com/jkuczm/MathematicaProtectionUtilities/releases/latest)
 [![Semantic Versioning](http://img.shields.io/badge/SemVer-2.0.0-brightgreen.svg)](http://semver.org/spec/v2.0.0.html)
 [![license MIT](http://img.shields.io/:license-MIT-blue.svg)](https://github.com/jkuczm/MathematicaProtectionUtilities/blob/master/LICENSE)
 
